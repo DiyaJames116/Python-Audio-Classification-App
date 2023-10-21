@@ -94,8 +94,14 @@ To use the Python Audio Classification App:
 Output of the Android app
 
 ![Sample Output](./output/c1.png)
+
+The output of the pyhton program is written into the output.txt file
 ![Sample Output](./output/c2.png)
+
+Success message that is shown when the output.txt file is updated with the result of the python code
 ![Sample Output](./output/c3.png)
+
+The output shown on the emulator screen in Android Studio.
 ![Sample Output](./output/c4.png)
 
 ## License
