@@ -59,7 +59,7 @@ To get started, follow these installation instructions:
 
 1. Clone this repository to your local machine.
    ```
-   git clone https://github.com/yourusername/your-repo.git
+   gh repo clone DiyaJames116/Python-Audio-Classification-App
    ```
 
 2. Install the required Python libraries if not already installed.
@@ -84,12 +84,12 @@ To use the Python Audio Classification App:
 3. The app will process the audio file and display the detected sounds and their corresponding probabilities.
 
 ## Images
+ Output of the pyhton code that displays the class of the 2 seconds split audio.
+ ![Sample Output](./output/SC1.png)
+ ![Sample Output](./output/SC2.png)
 
 
 ## License
 
 This Python Audio Classification App is licensed under the [MIT License](LICENSE).
 
----
-
-Feel free to include images of the app's output in the 'images' directory and reference them in the readme where relevant, like the "Sample Output" image shown above.
