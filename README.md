@@ -31,15 +31,6 @@ import io
 import pandas as pd
 ```
 
-For Android (Java):
-```java
-import android.os.Bundle;
-import android.widget.TextView;
-import androidx.appcompat.app.AppCompatActivity;
-import java.io.BufferedReader;
-import java.io.InputStreamReader;
-```
-
 For Android (Kotlin):
 ```kotlin
 import android.os.Bundle;
