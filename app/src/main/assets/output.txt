@@ -1,0 +1,9 @@
+Total duration: 59.90s
+Speech
+Speaker_0000_00083.wav :
+  Speech      : 0.892
+  Silence     : 0.085
+  Inside, small room: 0.010
+  Narration, monologue: 0.010
+  Speech synthesizer: 0.003
+Silence count: 0
