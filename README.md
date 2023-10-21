@@ -84,10 +84,16 @@ To use the Python Audio Classification App:
 3. The app will process the audio file and display the detected sounds and their corresponding probabilities.
 
 ## Images
- Output of the pyhton code that displays the class of the 2 seconds split audio.
+ Output of the python code that displays the class of the 2 seconds split audio.
  ![Sample Output](./output/SC1.png)
+ 
+ Note: This is the output of the last few seconds of the audio. The audio class with the highest score is displayed first
+ 
  ![Sample Output](./output/SC2.png)
 
+Output of the Android app
+
+<img src="./output/c1.png" width="200" height="150">
 
 ## License
 
