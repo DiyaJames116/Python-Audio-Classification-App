@@ -27,12 +27,8 @@ import csv
 import matplotlib.pyplot as plt
 from IPython.display import Audio
 from scipy.io import wavfile
-import tensorflow as tf
-import numpy as np
 import io
-import csv
 import pandas as pd
-from scipy.io import wavfile
 ```
 
 For Android (Java):
