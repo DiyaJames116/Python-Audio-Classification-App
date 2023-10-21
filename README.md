@@ -93,7 +93,7 @@ To use the Python Audio Classification App:
 
 Output of the Android app
 
-<img src="./output/c1.png" width="200" height="150">
+<img src="./output/c1.png" width="1484" height="370">
 
 ## License
 
